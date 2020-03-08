@@ -9,5 +9,7 @@ and then push and commit them back to our github repo.
 
 1. Clone
 2. Stage and commit.
+3. Add more things...
+4. 
 
 
